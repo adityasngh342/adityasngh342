@@ -25,7 +25,8 @@
 - 🌱 I’m currently learning more about Data Science.
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Data science or any tech-related stuff.
-- 📫 How to reach me: [Instagram - i__m__adityaa](https://www.instagram.com/i__m__adityaa/)  
+- 📫 How to reach me: [Instagram - i__m__adityaa](https://www.instagram.com/i__m__adityaa/) 
+- - :e-mail: adityasngh342@gmail.com 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
@@ -50,13 +51,8 @@
 <a href="https://github.com/adityasngh342">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasngh342&show_icons=true&theme=light&line_height=27" alt="Aditya's github stats"/>
 </a>
-<a href="https://github.com/adityasngh342/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityasngh342&repo=FlutterExampleApps&theme=light" />
 
-</a>
-<a href="https://github.com/adityasngh342/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityasngh342&repo=VelocityX&theme=light" />
-</a>
+
 
 <div align="center">
 
