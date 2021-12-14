@@ -21,9 +21,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Frontier].
+- 🔭 I’m currently working on [Data Science].
 - 🌱 I’m currently learning more about Data Science.
-- 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Data science or any tech-related stuff.
 - 📫 How to reach me: [Instagram - i__m__adityaa](https://www.instagram.com/i__m__adityaa/) 
 - - :e-mail: adityasngh342@gmail.com 
